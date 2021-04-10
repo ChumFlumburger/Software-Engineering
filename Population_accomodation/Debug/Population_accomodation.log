@@ -1,0 +1,5 @@
+﻿  Population_accomodation.cpp
+C:\Users\DELL\source\repos\Population_accomodation\Population_accomodation.cpp(109,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Population_accomodation\Population_accomodation.cpp(135,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Population_accomodation\Population_accomodation.cpp(197,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Population_accomodation.vcxproj -> C:\Users\DELL\source\repos\Population_accomodation\Debug\Population_accomodation.exe

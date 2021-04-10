@@ -1,0 +1,2 @@
+C:\Users\zacal\source\repos\Population_accomodation\x64\Debug\Population_accomodation.exe
+C:\Users\zacal\source\repos\Population_accomodation\x64\Debug\Population_accomodation.pdb
